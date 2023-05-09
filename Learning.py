@@ -1,4 +1,6 @@
-name = 'My name is {1} {0} '
+mylist = ['apple', 'banana', 'mange']
 
-
-print(name.format('passavit', '10'))
+i = 0
+while i < len(mylist):
+    print(mylist[i])
+    i += 1
