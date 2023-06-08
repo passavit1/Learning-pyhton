@@ -41,8 +41,12 @@ print(myList)
 # newListOfNumber = [x for x in range(10) if x < 5]
 # print(newListOfNumber)
 
-myList.sort()
-print(myList, 'sort list ')
+# myList.sort()
+# print(myList, 'sort list ')
 
-myList.sort(reverse=True)
-print(myList, 'sort list reverse ')
+# myList.sort(reverse=True)
+# print(myList, 'sort list reverse ')
+
+# Copy list
+# copy_list = myList.copy()
+
